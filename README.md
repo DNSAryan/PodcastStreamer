@@ -1,4 +1,4 @@
-# podcastr
+# Podcastr
 This project aims to create a sophisticated Software-as-a-Service (SaaS) platform that
 integrates AI-powered tools to enhance content creation and management. Leveraging
 React js for its robust framework and Convex for real-time data management, the
